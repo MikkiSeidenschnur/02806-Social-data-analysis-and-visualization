@@ -130,3 +130,12 @@ dmypy.json
 
 # Data files
 rawdata/
+rawdata/
+week_6_exercises/KNN-Tutorial.ipynb
+week_6_exercises/data/
+week_6_exercises/home/
+week_6_exercises/skeletons/
+week_6_exercises/solutions/
+week_6_exercises/var/
+week_6_exercises/working_with_text_data.rst
+
